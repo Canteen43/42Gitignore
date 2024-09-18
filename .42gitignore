@@ -1,0 +1,11 @@
+# Ignore object files
+*.o
+
+# Ignore static library files
+*.a
+
+# Ignore Visual Studio Code directory
+.vscode/
+
+# Ignore output files
+*.out
